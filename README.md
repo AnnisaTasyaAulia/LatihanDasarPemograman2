@@ -1,1 +1,4 @@
-# LatihanDasarPemograman2
+- Nama :Annisa Tasya Aulia
+- NIM : 20220040274
+- Kelas : TI22A
+- Prodi : Teknik Informatika
